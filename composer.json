@@ -1,5 +1,5 @@
 {
-    "name": "cap-collectif/id-to-uuid",
+    "name": "paramah/id-to-uuid",
     "description": "Easily migrate from auto incremented id to uuid",
     "type": "library",
     "autoload": {
